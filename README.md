@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @slim-crown aka Mike
 - 👀 I’m interested in flutter
-- 🌱 I’m currently learning flutter 2.0
+- 🌱 I’m currently learning flutter 2.0 and GO lang
 - 📫 How to reach me? +251921297882
 
 <!---
