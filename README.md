@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @slim-crown aka Mike
 - 👀 I’m interested in flutter
-- 🌱 I’m currently learning the complete web stack in JS
+- 🌱 I’m currently learning rust
 - 📫 How to reach me? +251921297882
 
 <!---
