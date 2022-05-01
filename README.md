@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @slim-crown aka Mike
 - 👀 I’m interested in flutter
-- 🌱 I’m currently learning rust
+- 🌱 I’m currently learning rust and Jina AI
 - 📫 How to reach me? +251921297882
 
 <!---
