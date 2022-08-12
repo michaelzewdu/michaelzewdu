@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @slim-crown aka Mike
 - 👀 I’m interested in flutter
-- 🌱 I’m currently learning Jina AI
-- 📫 How to reach me? +251921297882
+- 🌱 I’m currently learning Data Science in Python
+- 📫 How to reach me? mikaelzshiferaw@gmail.com
 
 <!---
 slim-crown/slim-crown is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
