@@ -9,11 +9,6 @@ Front end heavy full stack dev
 * 🚀  I'm currently working on [50lomi - a volunteer management and recruitment platform](http://frontend.50lomi.et)
 * 🧠  I'm learning Django for Everybody taught by Charles Russell Severance from the University of Michigan on Coursera
 
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/michaelzewdu"><img src="https://github-readme-streak-stats.herokuapp.com/?user=michaelzewdu&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <!---
 slim-crown/slim-crown is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
