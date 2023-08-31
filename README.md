@@ -7,7 +7,7 @@ Front end heavy full stack dev
 * ✉️  You can contact me at [mikaelzshiferaw@gmail.com](mailto:mikaelzshiferaw@gmail.com)
 * 🤝  I'm open to collaborating on Flutter, React js, Django, Node js, and anything data science related using python
 * 🚀  I'm currently working on [50lomi - a volunteer management and recruitment platform](http://frontend.50lomi.et)
-* 🧠  I'm learning Django for Everybody taught by Charles Russell Severance from the University of Michigan on Coursera
+* 🧠  I'm learning PHP
 
 
 <!---
