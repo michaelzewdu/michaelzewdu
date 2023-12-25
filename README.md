@@ -1,7 +1,7 @@
 Hi 👋 My name is Michael
 ========================
 
-Front end heavy full stack dev
+Full stack dev
 ------------------------------
 
 * ✉️  You can contact me at [mikaelzshiferaw@gmail.com](mailto:mikaelzshiferaw@gmail.com)
